@@ -1,0 +1,1 @@
+The goal of this project is to utilize what I've learned about HTML and CSS and recreate a the google home or search results page.

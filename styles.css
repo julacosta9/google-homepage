@@ -1,0 +1,83 @@
+#topHeader {
+    display: flex;
+    padding: 10px 10px;  
+    vertical-align: top; 
+    border-bottom: 1px solid #ebebeb
+    /* position: relative;
+    margin: 0 auto;
+    margin-left: 119px;
+    width: 640px; */
+}
+
+#searchBox {
+    background: #fff;
+    background-image: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png);
+    background-repeat: no-repeat, repeat;
+    background-position: right;
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    height: 39px;
+    width: 638px;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0px auto 0px 50px
+}
+
+.googleLogo {
+    padding: 4px 0px 0px 30px;
+    top: 4px;
+    height: 7%;
+    width: 7%;
+}
+
+.menuIcon {
+    height: 2.5%;
+    width: 2.5%;
+}
+
+.profilePic {
+    height: 2.5%;
+    width: 2.5%;
+    padding: 0px 50px 0px 20px;
+    border-radius: 50%;
+}
+
+#searchResults {
+    margin: 0px 0px 0px 190px;
+    width: 600px;
+}
+
+.result {
+    margin: 40px 0px 0px 0px;
+}
+
+.pageTitle {
+    font-size: 20px;
+    line-height: 1.3;
+    font-weight: normal;
+    color: #1a0dab;
+    font-family: 'Roboto',arial,sans-serif;
+    margin: 0px;
+}
+
+.url {
+    font-size: 16px;
+    padding-top: 1px;
+    line-height: 1.5;
+    margin: 0px;
+    color: #006621;
+    font-style: normal;
+    font-family: 'Roboto',arial,sans-serif;
+}
+
+.pageDescription {
+    line-height: 1.57;
+    margin: 0px;
+    word-wrap: break-word;
+    color: #545454;
+    font-size: 14px;
+    font-family: 'Roboto', arial, sans-serif;
+}
